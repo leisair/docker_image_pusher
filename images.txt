@@ -1,1 +1,2 @@
 pengzhile/fuclaude
+pengzhile/fuclaude:latest
