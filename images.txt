@@ -1,2 +1,1 @@
-pengzhile/fuclaude
-pengzhile/fuclaude:latest
+xprobe/xinference
